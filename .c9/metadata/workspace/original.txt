@@ -1,0 +1,1 @@
+{"filter":false,"title":"original.txt","tooltip":"/original.txt","ace":{},"undoManager":{"mark":-1,"position":-1,"stack":[]},"timestamp":1447876292000,"hash":"17306136257547f37f33dab2f5ed1bf0260261dc"}
